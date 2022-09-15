@@ -1,0 +1,146 @@
+@media (max-width: 1399.98px) { 
+
+    .auth_img {
+        margin-top: -24px;
+        width: 710px;
+        margin-left: 20px;
+    }
+    .bg-img {
+        height: 88vh;
+    }
+
+
+
+
+ }
+
+ @media (max-width: 1280px) { 
+
+    .auth_img {
+        margin-top: -24px;
+        width: 684px;
+        margin-left: 20px;
+    }
+
+    
+
+
+ }
+ @media (max-width: 1440px) { 
+
+    .bg-img {
+        height: 88vh;
+    }
+
+    .auth_img {
+        margin-top: -28px;
+        width: 706px;
+        margin-left: 93px;
+    }
+
+ }
+
+
+ @media (max-width: 576px) { 
+
+    
+    .mt192 {
+        margin-top: 29px;
+    }
+
+    h1 {
+      
+        font-size: 35px;
+       
+    }
+.flex-class{
+    display: grid;
+}
+.bg-color {
+  
+    height: 100%;
+}
+.overlay_contant {
+  
+    top: 13px;
+}
+
+.mobile-pb{
+    padding-bottom: 12px !important;
+}
+.mobil-p{
+    padding-left: 57px;
+    padding-bottom: 14px; 
+}
+
+.pt178{
+    padding-top: 20px;
+  }
+h2{
+
+    font-size: 19PX;
+}
+.mt-mob{
+    margin-top: 0px !important;
+}
+
+.auth_img {
+    margin-top: -24px;
+    width: 207px;
+    margin-left: 93px;
+}
+
+.mt106{
+    margin-top: 15px;
+  }
+  .mt-10-mob{
+    margin-top: 10px;
+  }
+
+  .mt-128{
+    margin-top: 247px;
+  }
+  .list-style li {
+    font-family: "Nunito Sans";
+    font-size: 12px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 20px;
+    text-align: left;
+}
+.hw-button{
+
+    width: 366px;
+    height: 59px;
+
+}
+.btn-w226{
+    width: 366px;
+}
+
+  }
+
+
+
+
+  /* @media (min-width: 768px) { 
+.mob-contant{
+    justify-content: inherit;
+}
+.auth_img {
+    margin-top: 98px;
+    width: 324px;
+    margin-left: 93px;
+}
+h1 {
+    color: #000000;
+    font-family: "Red Hat Display";
+    font-size: 36px;
+    font-weight: 900;
+}
+
+
+
+  } */
+

@@ -1,0 +1,306 @@
+.bg-img {
+    background-image: url("../images/bg-template.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img-2 {
+    background-image: url("../images/jimmy-nilsson-masth-eMvQoeOVTjc-unsplash.png");
+    background-repeat: no-repeat;
+
+}
+
+.bg-img3 {
+    background-image: url("../images/bg-template-2.png");
+    background-repeat: no-repeat;
+
+}
+
+.logo-style {
+    color: #000000;
+    font-family: "Nunito Sans";
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 37px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.logo-color {
+    color: #954ae2;
+    font-family: "Nunito Sans";
+    font-weight: 900;
+}
+
+.custom_button {
+    padding: 15px 45px;
+    border-radius: 0px;
+    background-color: #954ae2;
+    border: none;
+    color: #ffffff;
+    font-family: "Red Hat Display";
+    font-size: 15px;
+    font-weight: 700;
+
+}
+
+.btn:first-child:hover {
+    background-color: #954ae2;
+}
+
+.nav-link {
+    font-family: "Nunito Sans";
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.active {
+    font-weight: 700;
+}
+
+h1 {
+    color: #000000;
+    font-family: "Red Hat Display";
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.mt192 {
+    margin-top: 192px;
+}
+
+p {
+    color: #707070;
+    font-family: "Nunito Sans";
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 28px;
+    text-align: left;
+}
+
+.form-floating>.form-select {
+    padding-top: 11px;
+    padding-bottom: 0.625rem;
+}
+
+.form-control {
+    border: none;
+    border-right: 2px solid;
+    border-radius: 0px;
+}
+
+.form-select {
+    border: none;
+
+    border-radius: 0px;
+}
+
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: rgb(172, 167, 167);
+    outline: 0;
+    box-shadow: none;
+}
+
+.form-control {
+    border-color: rgb(172, 167, 167);
+}
+
+.form-select:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: rgb(172, 167, 167);
+    outline: 0;
+    box-shadow: none;
+}
+
+.form_custom_size {
+    margin-top: 14px;
+    height: 32px;
+}
+
+.shadow-sm {
+    box-shadow: 0 3px 56px rgba(0, 0, 0, 0.07);
+}
+
+.custome_lable {
+    color: #000000;
+    font-family: "Red Hat Display";
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.btn-check:checked+.btn,
+.btn.active,
+.btn.show,
+.btn:first-child:active,
+:not(.btn-check)+.btn:active {
+    background-color: #954ae2
+}
+
+.btn:first-child:hover,
+:not(.btn-check)+.btn:hover {
+    background-color: #954ae2
+}
+
+.card1 {
+    box-shadow: 114px 75px 124px rgba(19, 95, 132, 0.13);
+    border-radius: 8px;
+    background-color: #954ae2;
+}
+
+.card2 {
+    box-shadow: 114px 75px 124px rgba(19, 95, 132, 0.13);
+    border-radius: 8px;
+    background-color: #fcf8ff;
+}
+
+.card-text {
+    color: #ffffff;
+    font-family: "Nunito Sans";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+}
+
+.card-text2 {
+    color: #5e84a1;
+}
+
+.name {
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+
+}
+
+.name1 {
+    color: #1e5068;
+}
+
+.date {
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 19px;
+    text-align: left;
+}
+
+.date1 {
+    color: #5e84a1;
+}
+
+h2 {
+    color: #fcf8ff;
+    font-family: "Red Hat Display";
+    font-size: 37px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 66px;
+    text-align: center;
+}
+
+.bg-color {
+    background-image: url("../images/bg copy.jpg");
+    height: 460px;
+
+}
+
+.overlay_contant {
+    position: relative;
+    top: 131px;
+}
+
+.black_color {
+    color: #4f5a62;
+}
+
+.none {
+    border: none;
+}
+
+.themecolor {
+    color: #954ae2;
+    color: #954ae2;
+    font-family: "Red Hat Display";
+    font-size: 20px;
+    font-weight: 900;
+}
+.bg-color12{
+    background-color: #34005c;
+    height: 395px;
+}
+.white-color{
+    color: #ffffff;
+}
+.auth_img{
+    margin-top: -30px;
+    width: 725px;
+    margin-left: 322px;
+}
+.full-black{
+    color: #000000;
+}
+.lh48{
+    line-height: 48px;
+}
+.list-style li{
+    font-family: "Nunito Sans";
+    font-size: 13px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 20px;
+    text-align: left; 
+   
+
+}
+.list-style ul {
+    list-style: none;
+    padding-left: 0px;
+}
+.list-style ul li:before {
+    content: '✓';
+    color: #954ae2;
+    padding-right: 12px;
+  }
+  .form-color{
+    background-color: #ffffff;
+  }
+  .flex-class{
+    display: flex;
+  }
+  .pt178{
+    padding-top: 178px;
+  }
+  .mt106{
+    margin-top: 106px;
+  }
+  .mt-128{
+    margin-top: 128px;
+  }
+  .hw-button{
+ width: 226px;
+    height: 59px;
+
+  }
+  .btn-w226{
+    width: 226px;
+  }
+  .mob-contant{
+    justify-content: center !important;
+  }
